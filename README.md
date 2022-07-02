@@ -10,7 +10,7 @@ I am a retired
 2) musician 
   * having played in cover bands during my teens and early 20s as a bass player + backup singer
 
-I am currently developing the .Net: VB + C# + C based music application: 
+I am currently developing the .Net Windows desk top (VB + C# + C) application: 
 
      https://www.belugaboy.com/childWebPages/BelugaBoy/Product%20Descriptions/Product%20Descriptions.html
  
